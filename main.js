@@ -58,3 +58,5 @@ for (currentPage= start; currentPage<=end; currentPage++) {
 		}
 	}
 }
+
+alert("FINISHED!")
