@@ -14,5 +14,7 @@ javascript:(async function(){let delay = n => %7B  %0D%0A     n = n %7C%7C 2000;
 
 ## Một số lưu ý nhỏ
 **KHÔNG ĐƯỢC ĐỤNG ĐẾN CỬA SỔ ĐANG THỰC THI SCRIPT**
+
 ***Việc chạy script khá nhẹ nhàng, nên cứ thoải mái thực hiện các tác vụ khác***
+
 **Nếu muốn dừng script, chỉ cần tắt cửa sổ đang thực thi là xong**
